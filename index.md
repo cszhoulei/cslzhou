@@ -7,7 +7,7 @@ My research interests include x86 systems security, with a focus on  trustworthy
 Ph.D, Computer Science, Central South University, China
 
 
-## Research \& Work Experience
+## Research & Work Experience
 
 ## Publications
 
